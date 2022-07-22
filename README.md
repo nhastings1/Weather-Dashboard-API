@@ -4,7 +4,7 @@ The shows how an application can retrieve data from another application's API an
 
 The dashboard uses [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities. 
 
-## Live URL:<https://nhastings1.github.io/Weather-Dashboard-API/>
+# Live URL:<https://nhastings1.github.io/Weather-Dashboard-API/>
 # GitHub Repo URL:<https://github.com/nhastings1/Weather-Dashboard-API>
 
 ## About the API
